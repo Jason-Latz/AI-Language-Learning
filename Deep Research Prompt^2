@@ -29,6 +29,7 @@ A) Project instruction set, in YAML, ready to paste into a ChatGPT Project:
    - voice-mode micro-commands the user can say to steer the session (examples: “otra vez”, “explícame”, “más rápido”, “pausa”, “dictado”, “sombras” for shadowing)
    - logging template the model reads back at the end: new items, errors, corrections, minutes practiced, confidence rating
 
+
 B) 30 plug-and-play session prompts (15 learner-led, 15 tutor-led), each with:
    - target level and focus (e.g., preterite vs imperfect, reflexives in routines, subjunctive for advice)
    - 10 item starter list for vocab or patterns
@@ -42,6 +43,9 @@ C) A 4-week plan that cycles topics, mixes review and new material, and specifie
 D) Evaluation and QA
    - acceptance checklist and self-test so I can verify the output quickly
    - table of sources with 1-line takeaways and links
+
+ E) Customization
+    - 3 ways the user can add or change the prompt to meet specific language-learning needs or desires
 
 Success criteria
 • The YAML instruction set is under 1,800 words, copy-pastable, and unambiguous.
