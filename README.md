@@ -1,5 +1,7 @@
 # AI-Language-Learning
 
+## Now a custom GPT on Chatgpt.com! [https://chatgpt.com/g/g-68ae7f6cb47c81918a93bb4eac509d81-ai-language-learning-through-speaking](url)
+
 How I'm using AI to turbocharge my Spanish speaking journey!
 
 
