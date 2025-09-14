@@ -24,7 +24,7 @@ The project focuses on incremental progress. Each week builds on the previous on
 
 ## Deep Research Chat
 
-I used a Deep Research conversation to craft the original system prompt.
+I used a Deep Research conversation to craft the original system prompt. I personally found this process super interesting, especially when asking it to research the best psychological language learning processes first.
 
 [View the conversation on ChatGPT](https://chatgpt.com/share/689d445f-292c-800c-8103-3e347e965e6b)
 =======
